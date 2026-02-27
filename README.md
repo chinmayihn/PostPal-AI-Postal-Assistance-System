@@ -1,9 +1,6 @@
 # PostPal-AI-Postal-Assistance-System
 An AI-powered postal assistance system that identifies the nearest post office based on extracted address information
 
-
-# PostPal – AI Postal Assistance System
-
 PostPal is a Python-based system that identifies the nearest post office from a given address. The project uses Natural Language Processing, geocoding, and geographic distance calculations to process address information and locate nearby post offices on an interactive map.
 
 The system is designed to demonstrate the use of AI and geolocation techniques for postal service applications.
