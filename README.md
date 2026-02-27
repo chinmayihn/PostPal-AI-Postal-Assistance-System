@@ -87,5 +87,4 @@ Computer Science Student
 
 
 
-If you want, I can also give you a **perfect `requirements.txt` file** so your GitHub repo looks complete.
 
